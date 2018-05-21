@@ -1,0 +1,7 @@
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\obj\Debug\Tal - Pyramider.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\obj\Debug\Tal - Pyramider.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\bin\Debug\Tal - Pyramider.exe.config
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\bin\Debug\Tal - Pyramider.exe
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\bin\Debug\Tal - Pyramider.pdb
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\obj\Debug\Tal - Pyramider.exe
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Tal - Pyramider\Tal - Pyramider\obj\Debug\Tal - Pyramider.pdb
