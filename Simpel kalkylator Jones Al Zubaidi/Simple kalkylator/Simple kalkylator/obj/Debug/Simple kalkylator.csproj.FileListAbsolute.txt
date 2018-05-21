@@ -1,0 +1,7 @@
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\bin\Debug\Simple kalkylator.exe.config
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\bin\Debug\Simple kalkylator.exe
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\bin\Debug\Simple kalkylator.pdb
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\obj\Debug\Simple kalkylator.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\obj\Debug\Simple kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\obj\Debug\Simple kalkylator.exe
+C:\Users\elev\Documents\GitHub\Prog 1 utmaningar\Simpel kalkylator Jones Al Zubaidi\Simple kalkylator\Simple kalkylator\obj\Debug\Simple kalkylator.pdb
