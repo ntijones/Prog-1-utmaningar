@@ -1,0 +1,7 @@
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\bin\Debug\Multiplikationstabbellen.exe.config
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\bin\Debug\Multiplikationstabbellen.exe
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\bin\Debug\Multiplikationstabbellen.pdb
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\obj\Debug\Multiplikationstabbellen.csprojResolveAssemblyReference.cache
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\obj\Debug\Multiplikationstabbellen.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\obj\Debug\Multiplikationstabbellen.exe
+C:\Users\elev\source\repos\Multiplikationstabbellen\Multiplikationstabbellen\obj\Debug\Multiplikationstabbellen.pdb
